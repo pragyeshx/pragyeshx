@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
 </a>
 
-<a href="https://kaggle.com/pragyeshx" target="_blank">
+<a href="https://www.kaggle.com/pragyeshjain" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" />
 </a>
 
